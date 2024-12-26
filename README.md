@@ -25,7 +25,9 @@ Sample description
    npm install
    ```
 
-   Installs all required dependencies
+
+
+   Installs all required dependencies for the project
 
    ```bash
    npm start
