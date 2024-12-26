@@ -27,8 +27,6 @@ Sample description
    command to start the app
    ```  
 
----
-
 ## ✨ Features  
 
 List of sample features (e.g. realtime chat app, standardized development environment with devcontainers)
