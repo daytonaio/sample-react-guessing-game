@@ -20,20 +20,16 @@ Sample description
    daytona create https://github.com/daytonaio/sample-react-guessing-game
    ```  
 
-... MORE STEPS IF NEEDED ...
-
-4. **Start the Application**:  
+3. **Start the Application**:  
    ```bash
    npm install
    ```
-   
-    
 
-Installs all required dependencies
+   Installs all required dependencies
 
-```
-npm start
-```
+   ```bash
+   npm start
+   ```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
