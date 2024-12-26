@@ -17,16 +17,29 @@ Sample description
 1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
 2. **Create the Workspace**:  
    ```bash  
-   daytona create <SAMPLE_REPO_URL> 
+   daytona create https://github.com/daytonaio/sample-react-guessing-game
    ```  
 
-... MORE STEPS IF NEEDED ...
+3. **Start the Application**:  
+   ```bash
+   npm install
+   ```
 
-4. **Start the Application**:  
-   ```bash  
-   command to start the app
-   ```  
 
-## ✨ Features  
 
-List of sample features (e.g. realtime chat app, standardized development environment with devcontainers)
+   Installs all required dependencies for the project
+
+   ```bash
+   npm start
+   ```
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+
+### Enter username
+A user name is required to start the game so you enter username
+
+### Start
+to begin the game, you click the start button and begin with your guess
